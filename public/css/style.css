@@ -1,0 +1,27 @@
+
+.banner{
+    background-image: url(/asset/image/BG-Darklaravel.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 18.6%;
+    padding-bottom: 18.6%;
+    color: white;
+}
+
+.banner2{
+    background-color: black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+}
+
+.banner3{
+    background-color: black;
+    padding-top: 13%;
+    padding-bottom: 13%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
